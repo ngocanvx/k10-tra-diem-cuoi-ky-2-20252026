@@ -1,46 +1,46 @@
 {
-    "gddp12": [
-        "Giáo dục địa phương 12",
-        "gddp_12"
+    "gddp10": [
+        "Giáo dục địa phương 10",
+        "gddp_10"
     ],
-    "ta12": [
-        "Tiếng Anh 12",
-        "ta_12"
+    "ta10": [
+        "Tiếng Anh 10",
+        "ta_10"
     ],
-    "tin12": [
-        "Tin học 12",
-        "tin_12"
+    "tin10": [
+        "Tin học 10",
+        "tin_10"
     ],
-    "su12": [
-        "Lịch sử 12",
-        "su_12"
+    "su10": [
+        "Lịch sử 10",
+        "su_10"
     ],
-    "ly12": [
-        "Vật lý 12",
-        "ly_12"
+    "ly10": [
+        "Vật lý 10",
+        "ly_10"
     ],
-    "ktpl12": [
-        "Giáo dục kinh tế và pháp luật 12",
-        "ktpl_12"
+    "ktpl10": [
+        "Giáo dục kinh tế và pháp luật 10",
+        "ktpl_10"
     ],
-    "dia12": [
-        "Địa lý 12",
-        "dia_12"
+    "dia10": [
+        "Địa lý 10",
+        "dia_10"
     ],
-    "hoa12": [
-        "Hóa học 12",
-        "hoa_12"
+    "hoa10": [
+        "Hóa học 10",
+        "hoa_10"
     ],
-    "sinh12": [
-        "Sinh học 12",
-        "sinh_12"
+    "sinh10": [
+        "Sinh học 10",
+        "sinh_10"
     ],
-    "toan12": [
-        "Toán 12",
-        "toan_12"
+    "toan10": [
+        "Toán 10",
+        "toan_10"
     ],
-    "cn12": [
-        "Công nghệ 12",
-        "cn_12"
+    "cn10": [
+        "Công nghệ 10",
+        "cn_10"
     ]
 }
