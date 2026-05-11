@@ -1,0 +1,46 @@
+{
+    "gddp12": [
+        "Giáo dục địa phương 12",
+        "gddp_12"
+    ],
+    "ta12": [
+        "Tiếng Anh 12",
+        "ta_12"
+    ],
+    "tin12": [
+        "Tin học 12",
+        "tin_12"
+    ],
+    "su12": [
+        "Lịch sử 12",
+        "su_12"
+    ],
+    "ly12": [
+        "Vật lý 12",
+        "ly_12"
+    ],
+    "ktpl12": [
+        "Giáo dục kinh tế và pháp luật 12",
+        "ktpl_12"
+    ],
+    "dia12": [
+        "Địa lý 12",
+        "dia_12"
+    ],
+    "hoa12": [
+        "Hóa học 12",
+        "hoa_12"
+    ],
+    "sinh12": [
+        "Sinh học 12",
+        "sinh_12"
+    ],
+    "toan12": [
+        "Toán 12",
+        "toan_12"
+    ],
+    "cn12": [
+        "Công nghệ 12",
+        "cn_12"
+    ]
+}
